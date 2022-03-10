@@ -6,20 +6,20 @@
 The next thing will be to install all the dependencies of the project.
 
 ```bash
-$ npm install
+ npm install
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+ npm run start
 
 # watch mode
-$ npm run start:dev
+ npm run start:dev
 
 # production mode
-$ npm run start:prod
+ npm run start:prod
 ```
 
 ## Get the docker image
