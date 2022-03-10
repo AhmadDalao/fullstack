@@ -14,7 +14,7 @@ npm install -g ionic
 The next thing will be to install all the dependencies of the project.
 
 ```bash
-$ npm install
+ npm install
 ```
 
 ## Running the app
